@@ -61,4 +61,4 @@ return (
   );
 };
 
-export default NavBar;
+export default Nav;

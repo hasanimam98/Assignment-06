@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "ChatGPT Pro",
+    "description": "Advanced AI assistant for writing, coding, learning, and productivity tasks.",
+    "price": 20,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": [
+      "AI content generation",
+      "Code assistance",
+      "Image & file analysis",
+      "Multi-language support",
+      "24/7 smart assistance"
+    ],
+    "icon": "https://i.ibb.co.com/wFgKqnSz/11865326.png"
+  },

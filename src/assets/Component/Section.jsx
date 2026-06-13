@@ -30,4 +30,4 @@ Explore Products    </button>
   );
 };
 
-export default CTASection;
+export default Section;
